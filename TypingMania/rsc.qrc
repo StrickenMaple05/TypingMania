@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/color.png</file>
+        <file>img/image.png</file>
+        <file>img/keyboard.png</file>
+        <file>img/pixmap.png</file>
+        <file>img/skin.png</file>
+        <file>img/eye.png</file>
+        <file>img/dead.png</file>
+        <file>img/blood.png</file>
+        <file>img/restart.png</file>
+        <file>img/home.png</file>
+    </qresource>
+    <qresource prefix="/lng">
+        <file>lng/russian.png</file>
+        <file>lng/english.png</file>
+    </qresource>
+</RCC>

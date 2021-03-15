@@ -1,0 +1,12 @@
+debug/color.o
+debug/difficulty.o
+debug/howtoplay.o
+debug/language.o
+debug/main.o
+debug/mainwidget.o
+debug/qrc_rsc.o
+debug/moc_color.o
+debug/moc_difficulty.o
+debug/moc_howtoplay.o
+debug/moc_language.o
+debug/moc_mainwidget.o

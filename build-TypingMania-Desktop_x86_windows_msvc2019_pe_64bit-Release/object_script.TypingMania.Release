@@ -1,0 +1,12 @@
+release/color.o
+release/difficulty.o
+release/howtoplay.o
+release/language.o
+release/main.o
+release/mainwidget.o
+release/qrc_rsc.o
+release/moc_color.o
+release/moc_difficulty.o
+release/moc_howtoplay.o
+release/moc_language.o
+release/moc_mainwidget.o
